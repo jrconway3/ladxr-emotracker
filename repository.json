@@ -1,14 +1,14 @@
 {
-	"name": "MuffinJets' Link's Awakening Randomizer Package",
+	"name": "X/Acmlm fork of Link's Awakening Randomizer Package",
 	"packages": [
 		{
 			"name": "LADX Randomizer - Map and Item Tracker",
 			"game_name": "Link's Awakening Randomizer",
-			"author": "MuffinJets, wolfman2000",
-			"version": "2.0.5",
-			"uid": "ladx_maptracker_muffinjets_wolfman2000",
-			"link": "https://github.com/muffinjets/ladx_maptracker_muffinjets_wolfman2000/releases/download/2.0.5/ladx_maptracker_muffinjets_wolfman2000.zip",
-			"documentation_url": "https://github.com/muffinjets/ladx_maptracker_muffinjets_wolfman2000/blob/master/README.md",
+			"author": "MuffinJets, wolfman2000, Xkeeper, Acmlm",
+			"version": "x-2.0.5",
+			"uid": "ladx_maptracker_muffinjets_wolfman2000_x_acmlm",
+			"link": "https://github.com/Xkeeper0/ladxr-emotracker/archive/refs/heads/master.zip",
+			"documentation_url": "https://github.com/Xkeeper0/ladxr-emotracker",
 			"variants": [
 				{
 					"name": "LADXR Tracker",
