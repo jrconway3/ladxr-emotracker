@@ -294,7 +294,7 @@
 		"captureable": false,
 		"stages": [
 			{
-				"img": "images/1_cello.png",
+				"img": "images/instruments/1n.png",
 				"codes": "cello"
 			},
 			{
@@ -337,7 +337,7 @@
 		"captureable": false,
 		"stages": [
 			{
-				"img": "images/2_conch.png",
+				"img": "images/instruments/2n.png",
 				"codes": "conch"
 			},
 			{
@@ -380,7 +380,7 @@
 		"captureable": false,
 		"stages": [
 			{
-				"img": "images/3_bell.png",
+				"img": "images/instruments/3n.png",
 				"codes": "bell"
 			},
 			{
@@ -423,7 +423,7 @@
 		"captureable": false,
 		"stages": [
 			{
-				"img": "images/4_harp.png",
+				"img": "images/instruments/4n.png",
 				"codes": "harp"
 			},
 			{
@@ -466,7 +466,7 @@
 		"captureable": false,
 		"stages": [
 			{
-				"img": "images/5_marimba.png",
+				"img": "images/instruments/5n.png",
 				"codes": "marimba"
 			},
 			{
@@ -509,7 +509,7 @@
 		"captureable": false,
 		"stages": [
 			{
-				"img": "images/6_triangle.png",
+				"img": "images/instruments/6n.png",
 				"codes": "triangle"
 			},
 			{
@@ -552,7 +552,7 @@
 		"captureable": false,
 		"stages": [
 			{
-				"img": "images/7_organ.png",
+				"img": "images/instruments/7n.png",
 				"codes": "organ"
 			},
 			{
@@ -595,7 +595,7 @@
 		"captureable": false,
 		"stages": [
 			{
-				"img": "images/8_drum.png",
+				"img": "images/instruments/8n.png",
 				"codes": "drum"
 			},
 			{
@@ -638,11 +638,11 @@
 		"loop": true,
 		"stages": [
 			{
-				"img": "images/mushroom.png",
+				"img": "images/items/mushroom.png",
 				"codes": "mushroom,shroom"
 			},
 			{
-				"img": "images/powder.png",
+				"img": "images/items/powder.png",
 				"codes": "powder"
 			}
 		]

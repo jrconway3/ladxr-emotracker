@@ -308,31 +308,31 @@
 	{
 		"name": "This location requires a sword.",
 		"type": "toggle",
-		"img": "images/sword_1.png",
+		"img": "images/items/sword1.png",
 		"codes": "cssword"
 	},
 	{
 		"name": "This location requires bombs.",
 		"type": "toggle",
-		"img": "images/bomb.png",
+		"img": "images/items/bomb.png",
 		"codes": "csbomb"
 	},
 	{
 		"name": "This location requires the feather.",
 		"type": "toggle",
-		"img": "images/feather.png",
+		"img": "images/items/feather.png",
 		"codes": "csfeather"
 	},
 	{
 		"name": "This location requires the Power Bracelet.",
 		"type": "toggle",
-		"img": "images/bracelet_1.png",
+		"img": "images/items/bracelet1.png",
 		"codes": "cslift"
 	},
 	{
 		"name": "This location requires the Pegasus Boots.",
 		"type": "toggle",
-		"img": "images/boots.png",
+		"img": "images/items/boots.png",
 		"codes": "csboots"
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "This location requires the Hookshot.",
 		"type": "toggle",
-		"img": "images/hookshot.png",
+		"img": "images/items/hookshot.png",
 		"codes": "cshookshot"
 	},
 	{

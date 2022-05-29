@@ -1,80 +1,68 @@
 {
-    "name": "MuffinJets' Link's Awakening Randomizer Package",
-    "packages": [
-        {
-            "name": "LADX Randomizer - Map and Item Tracker",
-            "game_name": "Link's Awakening Randomizer",
-            "author": "MuffinJets, wolfman2000",
-            "version": "2.0.6",
-            "uid": "ladx_maptracker_muffinjets_wolfman2000",
-            "link": "https://github.com/muffinjets/ladx_maptracker_muffinjets_wolfman2000/releases/download/2.0.6/ladx_maptracker_muffinjets_wolfman2000.zip",
-            "documentation_url": "https://github.com/muffinjets/ladx_maptracker_muffinjets_wolfman2000/blob/master/README.md",
-            "variants": [
-                {
-                    "name": "LADXR Tracker",
-                    "flags": [
-                        "map",
-                        "pins",
-                        "chathud",
-                        "autotracker"
-                    ]
-                },
-                {
-                    "name": "Entrance Randomizer Tracker",
-                    "flags": [
-                        "map",
-                        "pins",
-                        "chathud"
-                    ]
-                },
-                {
-                    "name": "Items Only",
-                    "flags": [
-                        "chathud"
-                    ]
-                },
-                {
-                    "name": "Items Only - Keysanity Chest Counts",
-                    "flags": [
-                        "chathud"
-                    ]
-                },
-                {
-                    "name": "Z4R Map Tracker (Old)",
-                    "flags": [
-                        "map",
-                        "pins",
-                        "chathud",
-                        "autotracker"
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Gato Roboto Randomizer Tracker",
-            "game_name": "Gato Roboto",
-            "author": "MuffinJets",
-            "version": "1.3.3",
-            "uid": "gato_roboto_tracker_muffinjets",
-            "link": "https://github.com/muffinjets/GatoRobotoMapTracker/releases/download/1.3.3/gato_roboto_tracker_muffinjets.zip",
-            "documentation_url": "https://github.com/muffinjets/gato_roboto_tracker_muffinjets/blob/master/README.md",
-            "flags": [
-                "map",
-                "pins",
-                "chathud"
-            ]
-        },
-        {
-            "name": "Link's Awakening Remake EmoTracker Pack - Items Only",
-            "game_name": "Link's Awakening Randomizer",
-            "author": "MuffinJets",
-            "version": "1.0",
-            "uid": "las_maptracker_muffinjets",
-            "link": "https://github.com/muffinjets/las_maptracker_muffinjets/releases/download/1.0.1/las_maptracker_muffinjets.zip",
-            "documentation_url": "https://github.com/muffinjets/las_maptracker_muffinjets/blob/main/README.md",
-            "flags": [
-                "chathud"
-            ]
-        }
-    ]
+	"name": "MuffinJets' Link's Awakening Randomizer Package",
+	"packages": [
+		{
+			"name": "LADX Randomizer - Map and Item Tracker",
+			"game_name": "Link's Awakening Randomizer",
+			"author": "MuffinJets, wolfman2000",
+			"version": "2.0.5",
+			"uid": "ladx_maptracker_muffinjets_wolfman2000",
+			"link": "https://github.com/muffinjets/ladx_maptracker_muffinjets_wolfman2000/releases/download/2.0.5/ladx_maptracker_muffinjets_wolfman2000.zip",
+			"documentation_url": "https://github.com/muffinjets/ladx_maptracker_muffinjets_wolfman2000/blob/master/README.md",
+			"variants": [
+				{
+					"name": "LADXR Tracker",
+					"flags": [
+						"map",
+						"pins",
+						"chathud",
+						"autotracker"
+					]
+				},
+				{
+					"name": "Entrance Randomizer Tracker",
+					"flags": [
+						"map",
+						"pins",
+						"chathud"
+					]
+				},
+				{
+					"name": "Items Only",
+					"flags": [
+						"chathud"
+					]
+				},
+				{
+					"name": "Items Only - Keysanity Chest Counts",
+					"flags": [
+						"chathud"
+					]
+				},
+				{
+					"name": "Z4R Map Tracker (Old)",
+					"flags": [
+						"map",
+						"pins",
+						"chathud",
+						"autotracker"
+					]
+				}
+			]
+		},
+		{
+			"name": "Gato Roboto Randomizer Tracker",
+			"game_name": "Gato Roboto",
+			"author": "MuffinJets",
+			"version": "1.3.3",
+			"uid": "gato_roboto_tracker_muffinjets",
+			"link": "https://github.com/muffinjets/GatoRobotoMapTracker/releases/download/1.3.3/gato_roboto_tracker_muffinjets.zip",
+			"documentation_url": "https://github.com/muffinjets/gato_roboto_tracker_muffinjets/blob/master/README.md",
+			"flags": [
+				"map",
+				"pins",
+				"chathud"
+			]
+		}
+	]
 }

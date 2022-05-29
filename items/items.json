@@ -3,37 +3,28 @@
 		"name": "Feather",
 		"type": "toggle",
 		"loop": true,
-		"img": "images/feather.png",
+		"img": "images/items/feather.png",
 		"codes": "feather"
 	},
 	{
 		"name": "Bow",
-		"type": "progressive",
+		"type": "toggle",
 		"loop": true,
-		"allow_disabled": false,
-		"stages": [
-			{
-				"img": "images/bow.png",
-				"img_mods": "@disabled"
-			},
-			{
-				"img": "images/bow.png",
-				"codes": "bow"
-			}
-		]
+		"img": "images/items/bow.png",
+		"codes": "bow"
 	},
 	{
 		"name": "Hookshot",
 		"type": "toggle",
 		"loop": true,
-		"img": "images/hookshot.png",
+		"img": "images/items/hookshot.png",
 		"codes": "hookshot, hs"
 	},
 	{
 		"name": "Magical Rod",
 		"type": "toggle",
 		"loop": true,
-		"img": "images/fire_rod.png",
+		"img": "images/items/rod.png",
 		"codes": "firerod, rod"
 	},
 	{
@@ -41,72 +32,72 @@
 		"type": "progressive",
 		"stages": [
 			{
-				"img": "images/yoshi.png",
+				"img": "images/trades/yoshi.png",
 				"codes": "yoshi",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/ribbon.png",
+				"img": "images/trades/ribbon.png",
 				"codes": "ribbon",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/food.png",
+				"img": "images/trades/food.png",
 				"codes": "food",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/bananas.png",
+				"img": "images/trades/bananas.png",
 				"codes": "bananas",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/stick.png",
+				"img": "images/trades/stick.png",
 				"codes": "stick",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/honey.png",
+				"img": "images/trades/honey.png",
 				"codes": "honey,beehive,hive",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/pineapple.png",
+				"img": "images/trades/pineapple.png",
 				"codes": "pineapple",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/flower.png",
+				"img": "images/trades/flower.png",
 				"codes": "flower",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/letter.png",
+				"img": "images/trades/letter.png",
 				"codes": "letter",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/broom.png",
+				"img": "images/trades/broom.png",
 				"codes": "broom",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/hook.png",
+				"img": "images/trades/hook.png",
 				"codes": "hook",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/bra.png",
+				"img": "images/trades/bra.png",
 				"codes": "bra,necklace",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/scale.png",
+				"img": "images/trades/scale.png",
 				"codes": "scale",
 				"inherit_codes": false
 			},
 			{
-				"img": "images/lens.png",
+				"img": "images/trades/lens.png",
 				"codes": "lens",
 				"inherit_codes": false
 			}
@@ -116,33 +107,34 @@
 		"name": "Shovel",
 		"type": "toggle",
 		"loop": true,
-		"img": "images/shovel.png",
+		"img": "images/items/shovel.png",
 		"codes": "shovel"
 	},
 	{
 		"name": "Bombs",
 		"type": "toggle",
 		"loop": true,
-		"img": "images/bomb.png",
+		"img": "images/items/bomb.png",
 		"codes": "bomb, bombs"
 	},
 	{
 		"name": "Ocarina",
 		"type": "toggle",
 		"loop": true,
-		"img": "images/ocarina.png",
+		"img": "images/items/ocarina.png",
 		"codes": "flute,ocarina"
 	},
 	{
 		"name": "Bracelet",
 		"type": "progressive",
 		"loop": true,
-		"stages": [{
-				"img": "images/bracelet_1.png",
+		"stages": [
+			{
+				"img": "images/items/bracelet1.png",
 				"codes": "bracelet,lift1"
 			},
 			{
-				"img": "images/bracelet_2.png",
+				"img": "images/items/bracelet2.png",
 				"codes": "bracelet2,lift2"
 			}
 		]
@@ -151,14 +143,14 @@
 		"name": "Pegasus Boots",
 		"type": "toggle",
 		"loop": true,
-		"img": "images/boots.png",
+		"img": "images/items/boots.png",
 		"codes": "boots"
 	}, 
 	{
 		"name": "Boomerang",
 		"type": "toggle",
 		"loop": true,
-		"img": "images/boomerang.png",
+		"img": "images/items/boomerang.png",
 		"codes": "boomerang"
 	},
 	{
@@ -193,11 +185,11 @@
 		"loop": true,
 		"stages": [
 			{
-				"img": "images/sword_1.png",
+				"img": "images/items/sword1.png",
 				"codes": "sword, sword1"
 			},
 			{
-				"img": "images/sword_2.png",
+				"img": "images/items/sword2.png",
 				"codes": "sword2"
 			}
 		]
@@ -208,11 +200,11 @@
 		"loop": true,
 		"stages": [
 			{
-				"img": "images/shield_1.png",
+				"img": "images/items/shield1.png",
 				"codes": "shield,shield1"
 			},
 			{
-				"img": "images/shield_2.png",
+				"img": "images/items/shield2.png",
 				"codes": "shield2,mirrorshield, mirror"
 			}
 		]
@@ -1812,12 +1804,6 @@
 		"type": "toggle",
 		"img": "images/greatfairy.png",
 		"codes": "colorfinish"
-	},
-	{
-		"name": "Debug Flag",
-		"type": "toggle",
-		"img": "images/linkface.png",
-		"codes": "debugFlag"
 	},
 	{
 		"name": "LinkFace",
