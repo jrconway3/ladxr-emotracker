@@ -1,11 +1,11 @@
-# A fork of MuffinJets' LADX EmoTracker Pack
+# A fork of Xkeeper0's fork of MuffinJets' LADX EmoTracker Pack
 
-this one has improvements and other stuff, maybe. at the very least a slightly less presumptuous readme
+Mostly just curious if I can add any additional improvements but also to see if I can learn how to write tracker scripts for EmoTracker...
 
 
 ## Usage
 
-boy i wish [emotracker's documentation](https://emotracker.net/documentation/customization/layout/creating-layouts/) existed.
+Apparently this is [Emotracker's Documentation](https://emotracker.net/documentation/customization/layout/creating-layouts/)
 
 
 ## Links
